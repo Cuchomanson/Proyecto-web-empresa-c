@@ -1,0 +1,3 @@
+functin saludo(){
+  alert("Hola");
+}
